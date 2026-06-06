@@ -88,7 +88,7 @@
   "schematic": {
     "hierarchy_collapsed": [],
     "selection_filter": {
-      "graphics": true,
+      "graphics": false,
       "images": true,
       "labels": true,
       "lockedItems": false,
